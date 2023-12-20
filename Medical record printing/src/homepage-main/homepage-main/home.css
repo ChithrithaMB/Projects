@@ -1,0 +1,289 @@
+.pinkbc1 {
+  background-image: url("https://tinehealth.com/wp-content/uploads/2017/05/Tine-Website-Photos-Articles-11.jpg");
+  height: 97vh;
+    width: 100%;
+  overflow: hidden;
+}
+
+.pinkh1 {
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 43px;
+  font-size: 75px;
+  margin-top: -91px;
+  color: rgb(29, 16, 131);
+}
+  
+  
+  
+  .pinkbtn1{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 31px;
+    margin-left: 1050px;
+}
+.pinkbtn2{
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 28px;
+margin-left: 18px;
+}
+.pinkbtn3{
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 18px;
+  margin-left: 17px;
+}
+
+/* Green */
+.pinklogin {
+  border-color: #04AA6D;
+  color: green;
+}
+
+.pinklogin:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Blue */
+.pinksignup {
+  border-color: #2196F3;
+  color: dodgerblue;
+}
+
+.pinksignup:hover {
+  background: #2196F3;
+  color: white;
+}
+
+/* Orange */
+.pinkaboutus {
+  border-color: #ff9800;
+  color: orange;
+}
+
+.pinkaboutus:hover {
+  background: #ff9800;
+  color: white;
+}
+
+.pinkcon1 {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: -301px;
+  font-size: 50px;
+  margin-top: -118px;
+  color: rgb(11, 18, 94);
+}
+
+.pinkcon2 {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 157px;
+  font-size: 54px;
+  margin-top: -225px;
+  color: rgb(11, 18, 94);
+}
+.pinkcon3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: -307px;
+  font-size: 45px;
+  margin-top: -230px;
+  color: rgb(190, 25, 61);
+}
+.pinkcon4 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 140px;
+  font-size: 45px;
+  margin-top: -228px;
+  color: rgb(190, 25, 61);
+}
+  
+
+
+
+#pinkheadc1 {
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: -28px;
+  font-size: larger;
+  margin-left: 3vh;
+  right: 71em;
+  margin-top: -27px;
+  color: #062b6e;
+}
+
+  #pinkp1 {
+    margin-top: -4px;
+    font-size: larger;
+    margin-left: 56px;
+    margin-top: 11px;
+    color: #0a22fa;
+  }
+  
+  #pinkpp1 {
+    margin-top: -14px;
+    font-size: larger;
+    margin-left: 58px;
+    margin-top: 18px;
+    color: #0a22fa;
+  }
+
+  .pinkcus1 {
+    margin-top: -120px;
+    margin-left: 10px;
+    color: #062b6e;
+  }
+
+  hr.pinknew1 {
+    border-top: 1px solid rgb(22, 137, 142);
+    margin-top: -138px;
+    width: 1498px;
+    margin-left: -1px;
+  }
+    
+
+    .pinkfb1 {
+      margin-top: -115px;
+      margin-left: 456px;
+      color: #062b6e;
+    }
+
+    #pinkheadc2 {
+      font-family: fantasy;
+      margin-left: 7vh;
+      right: 56em;
+      margin-top: 9px;
+      font-size: larger;
+      color: #062b6e;
+    }
+
+      .pinkin1 {
+        margin-top: 10px;
+        margin-left: 458px;
+        color: #062b6e;
+      }
+
+      .pinkem1 {
+        margin-top: 10px;
+        margin-left: 458px;
+        color: #062b6e;
+      }
+
+      #pinkheadc3 {
+        font-family: fantasy;
+        margin-left: 7vh;
+        right: 24em;
+        margin-top: -30px;
+        font-size: 22px;
+        color: #000a03;
+      }
+      #pinkheadc4 {
+        font-family: fantasy;
+        margin-left: 7vh;
+        right: 36em;
+        margin-top: 10px;
+        font-size: 24px;
+        color: #00030f;
+      }      
+
+      #pinkheadc5 {
+        font-family: fantasy;
+        margin-left: 7vh;
+        right: 36em;
+        margin-top: -68px;
+        font-size: 24px;
+        color: #00030f;
+      }
+
+      .pinkvl {
+        border-left: 3px solid rgb(22, 137, 142);
+        height: 129px;
+        margin-left: 284px;
+        margin-top: -129px;
+      }
+
+      .pinkvl1 {
+        
+          border-left: 3px solid rgb(22, 137, 142);
+          height: 131px;
+          margin-left: 1070px;
+          margin-top: -121px;
+        }
+
+        .pinkcolo1 {
+          background-color: #059ed188;
+          height: 133px;
+          margin-top: 535px;
+          width: 1499px;
+        }
+
+        .pinkcolo2 {
+          background-color: #5eb1cc4d;
+          height: 121px;
+          margin-top: -773px;
+          width: 1466px;
+        }
+
+
+      
+      
+      
+      
+      .pinkcard {
+        position: absolute;
+        top: 50%;
+        left: 13%;
+        width: 795px;
+        height: 319px;
+        margin: -150px;
+        float: left;
+        perspective: 500px;
+      }
+      
+      .pinkcontent {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      
+        transition: transform 1s;
+        transform-style: preserve-3d;
+      }
+      
+      .pinkcard:hover .pinkcontent {
+        transform: rotateY( 180deg ) ;
+        transition: transform 0.5s;
+      }
+      
+      .pinkfront,
+      .pinkback {
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background: rgba(8, 12, 240, 0.493);
+        line-height: 300px;
+        color: #ebecf7;
+        text-align: center;
+        font-size: 60px;
+        border-radius: 5px;
+        backface-visibility: hidden;
+        margin-left:0px;
+      }
+      
+      .pinkback {
+        background: rgba(4, 146, 241, 0.966);
+        color: white;
+        transform: rotateY( 180deg );
+        border-radius: 6px;
+      }
